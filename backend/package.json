@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon src/index.js"
   },
-  "author": "vyamashiro",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
