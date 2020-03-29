@@ -62,14 +62,14 @@
     position: absolute;
     right: 24px;
     top: 24px;
-    border: 0px;
+    border: 0;
 }
 
 .profile-container ul li button:hover {
     opacity: 0.8;
 }
 
-.profile-container ul li stron {
+.profile-container ul li strong {
     display: block;
     margin-bottom: 16px;
     color: #41414d;
