@@ -47,7 +47,7 @@ export default function Profile() {
                     <p>R$ 120,00</p>
 
                     <button type="button">
-                        <FiTrash2 size={20} color="#a8a8b3" />
+                        <FiTrash2 size={20} color="#a8a8b3" background-color="white" />
                     </button>
                 </li>
                 <li>
