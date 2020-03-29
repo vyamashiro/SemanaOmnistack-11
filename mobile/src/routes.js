@@ -2,7 +2,7 @@ import React from 'react';
 import { NavigationContainer} from '@react-navigation/native';
 import { createStackNatigator } from '@react-navigation/stack';
 
-const AppStack = createStackNatigator();
+const AppStack = createStackNavigator();
 
 import Incidents from './pages/Incidents';
 import Detail from './pages/Detail';
